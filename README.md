@@ -19,4 +19,5 @@ The dataset consists of the information obtained from the past shopping behavior
 * **customer_value_total_ever_offline**: The total fee paid by the customer for online purchases
 * **interested_in_categories_12**: List of categories the customer has shopped in the last 12 months
 
+#### **Warning** <br>
 ***I would like to state that I cannot share the dataset because it is not open source.***
